@@ -2,7 +2,7 @@ Hi, i'm vince
 
 in my freetime i like to
 
--build apps in flutter
+-build mobile apps in flutter
 
 -tinker around with python
 
